@@ -1,0 +1,6 @@
+applications:
+- services:
+  - Relationship Extraction-27
+  name: cRan
+  path: webApp.war
+  memory: 512M
